@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/4/15 11:30:28。
+     1>项目“E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Employee.cpp Manager.cpp Saler.cpp Salermanager.cpp Technician.cpp background.cpp data.cpp department.cpp main.cpp menu.cpp
+         Employee.cpp
+     1>e:\code\c++综合程序设计\201741413443 黄锦燊 员工信息管理系统\consoleapplication1\consoleapplication1\employee.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\code\c++综合程序设计\201741413443 黄锦燊 员工信息管理系统\consoleapplication1\consoleapplication1\employee.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\code\c++综合程序设计\201741413443 黄锦燊 员工信息管理系统\consoleapplication1\consoleapplication1\employee.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         menu.cpp
+         main.cpp
+         department.cpp
+         data.cpp
+         background.cpp
+         Technician.cpp
+         Salermanager.cpp
+         Saler.cpp
+         Manager.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\background.obj
+         Debug\data.obj
+         Debug\department.obj
+         Debug\Employee.obj
+         Debug\main.obj
+         Debug\Manager.obj
+         Debug\menu.obj
+         Debug\Saler.obj
+         Debug\Salermanager.obj
+         Debug\stdafx.obj
+         Debug\Technician.obj
+         ConsoleApplication1.vcxproj -> E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>已完成生成项目“E:\Code\C++综合程序设计\201741413443 黄锦燊 员工信息管理系统\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.77
